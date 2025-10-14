@@ -16,7 +16,7 @@
   "dependencies": {
     "better-sqlite3": "^12.2.0",
     "kysely": "^0.28.5",
-    "next": "15.5.2",
+    "next": "^15.6.0-canary.35",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
